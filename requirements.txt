@@ -1,0 +1,4 @@
+# Core library has zero external dependencies (pure Python standard library)
+# Development and testing dependencies:
+pytest>=7.0.0
+ruff>=0.1.0
